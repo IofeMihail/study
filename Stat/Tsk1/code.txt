@@ -1,0 +1,2 @@
+f=open('D:\\Users\\Misha\\Python\\Stat\\Tsk1\\input.txt', 'r', encoding='utf-8')
+arr = f.readline().split(', ')
